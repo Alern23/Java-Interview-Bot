@@ -1,3 +1,5 @@
-if __name__ == '__main__':
-    print("Welcome Java Interview Bot")
-
+# Project       : Java Interview Bot
+# Author        : Mindula Dilthushan
+# Email         : minduladilthushan1@gmail.com
+# Crate Date    : 22/04/10
+# Update Date   : 22/04/10
